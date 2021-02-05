@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaomirandas/)](https://www.linkedin.com/in/joaomirandas/)
 [![E-mail Badge](https://img.shields.io/badge/-E--mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao@liveapps.me)](mailto:joao@liveapps.me)
 
-## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/joaomirandasa/joaomirandasa/main/wave.gif" width="30px">
 🧑🏽‍💻   Hi, welcome to my github, if you interested in anything please let me know.<br/>
 🌎  Living at São Paulo - Brazil.<br/>
 🎁  24 Years old, studing aerospace engineering.<br/>
